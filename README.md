@@ -1,5 +1,6 @@
 # Minha Jornada para a Certificação MD-102: Endpoint Administrator
 
+![Badge](https://img.shields.io/badge/Status-Finalizado-brightgreen)
 [![Certificação MD-102](https://img.shields.io/badge/MD--102-Endpoint%20Administrator-blue?logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/LoOliveira-5887/1D9B3F7D212FCBD0?sharingId=366EDF59AB4E076D)
 
 
