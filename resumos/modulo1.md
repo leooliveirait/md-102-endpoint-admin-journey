@@ -60,9 +60,3 @@ Entra é rei da identidade!
 
 ---
 
-Se curtir esse estilo, posso fazer o mesmo para os próximos módulos:
-
-2. **Gerenciar, manter e proteger dispositivos**  
-3. **Implantar e atualizar sistemas operacionais**  
-4. **Gerenciar políticas e perfis com Intune**
-
