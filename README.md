@@ -1,6 +1,6 @@
 Minha Jornada para a Certificação MD-102: Endpoint Administrator
 
-![MD-102 Badge](https://img.shields.io/badge/Microsoft%20Certified-Endpoint%20Administrator-blue)
+![MD-102 Badge](https://learn.microsoft.com/api/credentials/share/en-us/LoOliveira-5887/1D9B3F7D212FCBD0?sharingId=366EDF59AB4E076D)
 
 Este repositório documenta minha trajetória rumo à certificação **MD-102: Microsoft 365 Endpoint Administrator**. Aqui você encontrará meus resumos, anotações, materiais de estudo e práticas que me ajudaram a conquistar essa certificação.
 
@@ -48,4 +48,3 @@ Conquistei a certificação MD-102 em [mês/ano]. Essa jornada me preparou para 
 - Pratique o máximo possível com Intune e Entra ID.
 - Revise os objetivos do exame frequentemente.
 
-Adiciona README.md inicial
