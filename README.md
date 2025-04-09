@@ -2,6 +2,11 @@
 
 ![MD-102 Badge](https://img.shields.io/badge/Microsoft%20Certified-Endpoint%20Administrator-blue)
 
+## 🏅 Certificação
+
+[![MD-102: Endpoint Administrator](https://images.credly.com/size/340x340/images/[1D9B3F7D212FCBD0]/md-102.png)](https://www.credly.com/badges/[BCQE5D-85CE36])
+
+
 Este repositório documenta minha trajetória rumo à certificação **MD-102: Microsoft 365 Endpoint Administrator**. Aqui você encontrará meus resumos, anotações, materiais de estudo e práticas que me ajudaram a conquistar essa certificação.
 
 ---
